@@ -15,5 +15,5 @@
 
 
 ## Links:
--[LinkedIn profile](https://www.linkedin.com/in/nikitha-kethi-13b67b184/)- Link to my linkedin profile.
-- [Git profile](https://github.com/nikithakethireddy1996)
+- [LinkedIn profile](https://www.linkedin.com/in/nikitha-kethi-13b67b184/)- Link to my linkedin profile.
+- [Git profile](https://github.com/nikithakethireddy1996) - Link to my git profile
