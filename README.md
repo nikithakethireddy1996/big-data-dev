@@ -10,7 +10,8 @@
 -  I have completed my undergraduation in the stream of Computer Science from VISVESVARAYA COLLLEGE OF ENGINEERING AND TECHNOLOGY during the year 2018.
 
 ## Plans: 
-- I'm interested in working web development and salesforce.
+- I'm interested in working web development.
+- Apart from the web development, recently I am very much fascinated towards SlesForce. I am training hard to gain certification from sales force.
 
 
 ## Links:
