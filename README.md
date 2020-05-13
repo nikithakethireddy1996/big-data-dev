@@ -10,7 +10,7 @@
 ## Background: 
 - My hometown is Hyderabad, India.
 -  I have completed my undergraduation in the stream of Computer Science from VISVESVARAYA COLLLEGE OF ENGINEERING AND TECHNOLOGY during the year 2018.
-- I have worked as the Software Developer in VISION IT SOLUTIONS.
+- I have worked as the Software Developer in VISION IT SOLUTIONS and learnt about python programming.
 
 ## Plans: 
 - I'm interested in working web development.
