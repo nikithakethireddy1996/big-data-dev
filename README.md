@@ -1,6 +1,7 @@
 # Nikitha Kethireddy
 
 ## About-me
+![](https://raw.githubusercontent.com/nikithakethireddy1996/big-data-dev/master/myImage.jpg)
 
 ## Current: 
 - I am currently pursuing my Masters in the stream of Applied Computer Science. 
