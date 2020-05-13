@@ -3,11 +3,13 @@
 ## About-me
 
 ## Current: 
-- I am currently pursuing my Masters in the stream of Applied Computer Science.
+- I am currently pursuing my Masters in the stream of Applied Computer Science. 
+- Apart from pursuing my masters I am also working as Technology Support Assistant in Northwest Missouri State Technology Support Service Center.
 
 ## Background: 
 - My hometown is Hyderabad, India.
 -  I have completed my undergraduation in the stream of Computer Science from VISVESVARAYA COLLLEGE OF ENGINEERING AND TECHNOLOGY during the year 2018.
+- I have worked as the Software Developer in VISION IT SOLUTIONS.
 
 ## Plans: 
 - I'm interested in working web development.
